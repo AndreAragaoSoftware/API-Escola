@@ -28,7 +28,12 @@ module.exports = (sequelize, DataTypes) => {
     paranoid: true,
     defaultScope: {
       where: {
-        ativo: true, // escopo padão
+        ativo: true, // escopo de para pessoas 
+      }
+    },
+    scopes: {
+      todosOsRegistros: {
+        where: {} // escopo para todas as pessoas
       }
     }
   });
