@@ -108,4 +108,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
 Abaixo está o diagrama de relacionamento das tabelas do banco de dados:
 
-![Diagrama de Relacionamento]([path/to/image.png](https://github.com/AndreAragaoSoftware/API-Escola/blob/main/arquivos-base/entidades.png?raw=true))
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b86760dd-f196-4e94-8b25-142d612324e8" />
+</div>
